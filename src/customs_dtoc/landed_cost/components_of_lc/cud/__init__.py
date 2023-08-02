@@ -1,2 +1,0 @@
-from .cud import \
-    CustomsDuty

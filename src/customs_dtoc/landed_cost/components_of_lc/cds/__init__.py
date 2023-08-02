@@ -1,2 +1,0 @@
-from .cds import \
-    CustomsDocumentaryStamp
