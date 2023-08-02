@@ -1,0 +1,14 @@
+{
+  "General Cargo": 122.0,
+  "Bagged Cargo": 216.0,
+  "Palletized": 96.0,
+  "Unpacked Fish": 812.0,
+  "Fish in Cartons": 542.0,
+  "Steel Products": 143.0,
+  "Logs": 186.0,
+  "Lumber": 186.0,
+  "Heavy lift over 5 to 15 Tons": 293.0,
+  "Heavy lift over 15 to 20 Tons": 484.0,
+  "Heavy lift over 20 Tons": 682.0,
+  "Checking Charge Shipside": 17.0
+}
